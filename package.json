@@ -1,0 +1,17 @@
+{
+  "name": "is-isogram",
+  "version": "1.0.0",
+  "description": "Test whether a string is an isogram",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jeff Long <hello@banterability.com>",
+  "license": "MIT"
+}

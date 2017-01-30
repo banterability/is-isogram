@@ -1,5 +1,7 @@
 # is-isogram
 
+Build Status: [![CircleCI](https://circleci.com/gh/banterability/is-isogram.svg?style=svg)](https://circleci.com/gh/banterability/is-isogram)
+
 Test whether a word or phrase is an [isogram](https://en.wikipedia.org/wiki/Isogram) (a word or phrase without a repeating letter).
 
 ## Installation

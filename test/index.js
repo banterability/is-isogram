@@ -5,7 +5,7 @@ var isIsogram = require('../');
 describe('isIsogram', function() {
   describe('words', function() {
     it('returns true for isogramatic words', function() {
-      assert.equal(isIsogram('isogram'), true);
+      assert.equal(isIsogram('sandwich'), true);
     });
 
     it('returns false for non-isogramatic words', function() {

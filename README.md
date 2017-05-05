@@ -15,9 +15,20 @@ $ npm install is-isogram --save
 ```js
 var isIsogram = require('is-isogram');
 
+// Test whether letters repeat in a word:
+
 isIsogram('sandwich');
 // -> true
 
 isIsogram('wedding');
+// -> false
+
+
+// Also supports phrases, ignoring spacing:
+
+isIsogram('quick on the draw');
+// -> true
+
+isIsogram('flipped turned upside down');
 // -> false
 ```

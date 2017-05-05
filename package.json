@@ -1,6 +1,6 @@
 {
   "name": "is-isogram",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Test whether a word or phrase is an isogram",
   "main": "index.js",
   "directories": {

@@ -12,6 +12,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "engines": {
+    "node": ">=4.x"
+  },
   "author": "Jeff Long <hello@banterability.com>",
   "license": "MIT"
 }

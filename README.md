@@ -1,7 +1,7 @@
 # is-isogram
 
-[![](https://img.shields.io/npm/v/is-isogram.svg?style=flat-square)](https://www.npmjs.com/package/is-isogram)
-[![](https://img.shields.io/circleci/project/github/banterability/is-isogram.svg?style=flat-square)](https://circleci.com/gh/banterability/is-isogram)
+[![Latest Version](https://img.shields.io/npm/v/is-isogram.svg?style=flat-square)](https://www.npmjs.com/package/is-isogram)
+[![Build Status](https://img.shields.io/circleci/project/github/banterability/is-isogram.svg?style=flat-square)](https://circleci.com/gh/banterability/is-isogram)
 
 Test whether a word or phrase is an [isogram](https://en.wikipedia.org/wiki/Isogram) (a word or phrase without a repeating letter).
 

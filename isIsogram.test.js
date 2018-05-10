@@ -1,4 +1,4 @@
-const isIsogram = require("./index");
+const isIsogram = require("./isIsogram");
 
 describe("isIsogram", () => {
   describe("words", () => {

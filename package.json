@@ -13,7 +13,7 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">=4.x"
+    "node": ">=6.5"
   },
   "author": "Jeff Long <hello@banterability.com>",
   "license": "MIT"

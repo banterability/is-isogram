@@ -1,3 +1,8 @@
+1.2.3
+-----
+* Omit tests from distributed package
+* Updated dependencies
+
 1.2.2
 -----
 * Updated dependencies

@@ -16,5 +16,18 @@
     "node": ">=6.5"
   },
   "author": "Jeff Long <hello@banterability.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banterability/is-isogram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/banterability/is-isogram/issues"
+  },
+  "homepage": "https://github.com/banterability/is-isogram#readme",
+  "keywords": [
+    "isogram",
+    "heterogram"
+  ]
 }

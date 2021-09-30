@@ -7,7 +7,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "jest": "27.2.3"
+    "jest": "27.2.4"
   },
   "scripts": {
     "test": "jest"

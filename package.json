@@ -27,6 +27,6 @@
     "heterogram"
   ],
   "devDependencies": {
-    "vitest": "^4.0.3"
+    "vitest": "^5.0.0"
   }
 }
